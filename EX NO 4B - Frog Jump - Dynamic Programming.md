@@ -1,7 +1,5 @@
 # EX 4B Frog Jump - Dynamic Programming
 
-## DATE: 16-10-2025
-
 ## AIM:
 
 To write a Java program for the given constraints to compute the number of distinct ways a frog can reach the n-th step by jumping either 1 or 2 steps at a time.
@@ -28,8 +26,8 @@ The solution must be implemented using **Dynamic Programming**.
 ```java
 /*
 Frog Jump
-Developed by: Gayathri T
-Register Number: 212223100007
+Developed by: Priyanka A
+Register Number: 212222230113
 */
 
 import java.util.Scanner;
