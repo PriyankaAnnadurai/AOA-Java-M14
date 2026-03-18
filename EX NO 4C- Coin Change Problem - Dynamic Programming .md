@@ -1,7 +1,5 @@
 # EX 4C Coin Change Problem - Dynamic Programming
 
-## DATE: 19-10-2025
-
 ## AIM:
 
 To write a Java program to find the minimum number of coins required to make a given amount using the **Coin Change Dynamic Programming approach**.
@@ -31,8 +29,8 @@ If the given amount cannot be formed using the available denominations, return *
 ```java
 /*
 Coin Change using Dynamic Programming
-Developed by: Gayathri T
-Register Number: 212223100007
+Developed by: Priyanka A
+Register Number: 212222230113
 */
 
 import java.util.*;
