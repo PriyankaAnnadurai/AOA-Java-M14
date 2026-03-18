@@ -1,7 +1,5 @@
 # EX 4D Longest Common SubSequence - Dynamic Programming
 
-## DATE: 23-10-2025
-
 ## AIM:
 
 To write a Java program to find the length of the **Longest Common Subsequence (LCS)** between two given strings using **Dynamic Programming**.
@@ -28,8 +26,8 @@ To write a Java program to find the length of the **Longest Common Subsequence (
 ```java
 /*
 Program to implement Longest Common SubSequence
-Developed by: Gayathri T
-Register Number: 212223100007
+Developed by: Priyanka A
+Register Number: 212222230113
 */
 
 import java.util.Scanner;
